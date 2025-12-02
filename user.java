@@ -9,4 +9,5 @@ string u="tanmay";
 boolean=false;
 int n=7;
 char='c';
+string ="kjgi";
 }
